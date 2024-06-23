@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **catloke963@gmail.com or 2103237@1utar.my**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
