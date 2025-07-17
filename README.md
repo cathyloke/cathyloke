@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cathy</h1>
-<h3 align="center">A passionate Software Engineering student from Malaysia</h3>
+<h3 align="center">A passionate Full Stack Software Engineer from Malaysia</h3>
 
-- 🔭 I’m currently a **Software Engineering student**
+- 🔭 I’m currently a **Full Stack Software Engineer**
 
 - 📝 Connect me at [https://www.linkedin.com/in/cathylokewengyan/](https://www.linkedin.com/in/cathylokewengyan/)
 
