@@ -5,7 +5,7 @@
 
 - 📝 Connect me at [https://www.linkedin.com/in/cathylokewengyan/](https://www.linkedin.com/in/cathylokewengyan/)
 
-- 📫 How to reach me **catloke963@gmail.com or 2103237@1utar.my**
+- 📫 How to reach me **catloke963@gmail.com**
 
 
 
